@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+employee-churn-frontend/node_modules/
+employee-churn-frontend/dist/
+.env
+
+
+
